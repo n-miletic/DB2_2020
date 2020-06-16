@@ -1,0 +1,6 @@
+C:\Users\Nevena\source\repos\n-miletic\DB2_2020\ContractingCompanySolution\ContractingCompanyEntityFramework\bin\Debug\netcoreapp3.1\ContractingCompanyEntityFramework.deps.json
+C:\Users\Nevena\source\repos\n-miletic\DB2_2020\ContractingCompanySolution\ContractingCompanyEntityFramework\bin\Debug\netcoreapp3.1\ContractingCompanyEntityFramework.dll
+C:\Users\Nevena\source\repos\n-miletic\DB2_2020\ContractingCompanySolution\ContractingCompanyEntityFramework\obj\Debug\netcoreapp3.1\ContractingCompanyEntityFramework.csprojAssemblyReference.cache
+C:\Users\Nevena\source\repos\n-miletic\DB2_2020\ContractingCompanySolution\ContractingCompanyEntityFramework\obj\Debug\netcoreapp3.1\ContractingCompanyEntityFramework.AssemblyInfoInputs.cache
+C:\Users\Nevena\source\repos\n-miletic\DB2_2020\ContractingCompanySolution\ContractingCompanyEntityFramework\obj\Debug\netcoreapp3.1\ContractingCompanyEntityFramework.AssemblyInfo.cs
+C:\Users\Nevena\source\repos\n-miletic\DB2_2020\ContractingCompanySolution\ContractingCompanyEntityFramework\bin\Debug\netcoreapp3.1\ContractingCompanyLib.dll
